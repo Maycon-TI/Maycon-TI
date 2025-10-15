@@ -1,4 +1,5 @@
-# Maycon-TI
+# Hi there 👋, I am Maycon
+
 
 <p align="left">
     <a href="https://github.com/Maycon-TI?tab=repositories&sort=stargazers">
@@ -27,7 +28,7 @@
     title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" 
 />
 <img 
     align="left" 
@@ -35,7 +36,7 @@
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" 
 />
 <img 
     align="left" 
@@ -43,7 +44,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" 
 />
 <img 
     align="left" 
@@ -51,7 +52,7 @@
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" 
 />
 <br/>
 <br/>
